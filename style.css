@@ -175,8 +175,8 @@ nav .menu ul li a{
     height: 60px;
     width: 35px;
     border-radius: 40%;
-    margin: 15vh 74vh;
-    border: 3px solid var(--Dark-Slate-Grey);
+    margin: 15vh 68vh;
+    border: 2px solid var(--Dark-Slate-Grey);
   }
 
    .mouse .scroll{
