@@ -51,7 +51,7 @@ nav .logo{
 .logo p{
     color:var(--Grey);
     font-weight: bold;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     letter-spacing: 2px;
     margin: 0 20px;
 }
@@ -77,7 +77,7 @@ nav .menu ul li a{
     display: inline-block;
     text-decoration: none;
     color:var(--Grey);
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: bold;
     
 }
@@ -175,7 +175,7 @@ nav .menu ul li a{
     height: 60px;
     width: 35px;
     border-radius: 40%;
-    margin: 15vh 74vh;
+    margin: 15vh 77vh;
     border: 2px solid var(--Dark-Slate-Grey);
   }
 
